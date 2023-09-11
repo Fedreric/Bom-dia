@@ -41,6 +41,11 @@ npm run dev
 
 ## Sitio Web 💻
 Link de netlify : https://bondia-restaurant.netlify.app/
+
+## Credenciales de ADMIN 👨‍💼
+ejemplo@gmail.com
+Contra123
+
 ### Autores 👣
 + Mauro Diaz Santilli [GitHub](https://github.com/MauroDiazSantilli)
 + Federico Luciano Ledesma [GitHub](https://github.com/Fedreric)
